@@ -1,0 +1,92 @@
+
+.heading0{
+    font-size: 60px;
+    transform: translate(-50px,-50px);
+    
+}
+
+.info0{
+    width: 500px;
+    height: 60px;
+    transform: translate(-30px,10px);
+    font-size: 25px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px;
+    
+}
+
+
+.button0{
+    height: 64px;
+    width:100px;
+    transform: translate(0,5px);
+    font-size: 17px;
+    background: #4bfce1;
+    border-radius: 15px;
+    border: rgba(0, 0, 0, 0);
+    box-shadow: 10px 10px 10px;
+   
+}
+
+
+.button0:hover{
+    background-color: #008b76;
+}
+
+
+.checkbox0{
+   width:17px;
+   height:17px;
+   margin:0 20px 0 10px;
+}
+
+.todo-text{
+    font-size: 20px;
+    margin: 0 10px 0 0;
+    width: 400px;
+    overflow-x: hidden;
+}
+
+
+.list0{
+   
+    width:600px;
+    height: 70px;
+    margin: 0 0 10px 30px;
+}
+
+.list1{
+    background: #0099f9;
+    width:600px;
+    height: 70px;
+    margin: 0 0 10px 100px;
+    border-radius: 15px;
+
+
+}
+
+
+.delete0{
+    height: 17px;
+    width: 17px;
+    text-decoration: none;
+    transform: translate(50px,0);
+    
+}
+
+.delete-button{
+    height: 17px;
+    width: 17px;
+    background-color: #0099f9;
+    border: #0099f900;
+    transform: translate(50px,0);
+    
+    
+}
+
+
+
+
+
+
+
