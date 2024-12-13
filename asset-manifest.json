@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GirindraGod/todo/static/css/main.9804fd9d.css",
+    "main.js": "/GirindraGod/todo/static/js/main.293492c5.js",
+    "index.html": "/GirindraGod/todo/index.html",
+    "main.9804fd9d.css.map": "/GirindraGod/todo/static/css/main.9804fd9d.css.map",
+    "main.293492c5.js.map": "/GirindraGod/todo/static/js/main.293492c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9804fd9d.css",
+    "static/js/main.293492c5.js"
+  ]
+}
